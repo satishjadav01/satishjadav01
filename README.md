@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me :<br><br>Hi, I’m Satish Jadav 👋<br><br>👨‍💻 I’m currently working on<br>Python-based web projects and responsive UIs using Tailwind CSS.<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly web applications, Python projects, and real-world practice ideas.<br><br>🛠 I’m looking for help with<br>Backend best practices, database design, and improving project structure.<br><br><br>💬 Ask me about<br>Python, HTML, CSS, Tailwind CSS, JavaScript, and MySQL.<br><br>⚡ Fun fact<br>I learn best by building things and breaking them until they work.
+About Me :<br><br>Hi, I’m Satish Jadav <br><br> I’m currently working on<br>Python-based web projects and responsive UIs using Tailwind CSS.<br><br> I’m looking to collaborate on<br>Beginner-friendly web applications, Python projects, and real-world practice ideas.<br><br>🛠 I’m looking for help with<br>Backend best practices, database design, and improving project structure.<br><br><br>💬 Ask me about<br>Python, HTML, CSS, Tailwind CSS, JavaScript, and MySQL.<br><br>⚡ Fun fact<br>I learn best by building things and breaking them until they work.
 
 
 ## 🌐 Socials:
