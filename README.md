@@ -46,13 +46,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satishjadav01&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github.com/satishjadav01)
-
----
-
-⭐ **If you like my work, consider starring some repos!**
-
-![Profile Views](https://visitcount.itsvg.in/api?id=satishjadav01&icon=0&color=0)
