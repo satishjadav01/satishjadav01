@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Satish Jadav
+#  Hi, I'm Satish Jadav
 
-🚀 Full Stack Developer | Python · JavaScript · React · Django  
-💡 I learn best by building things and breaking them until they work.
+Full Stack Developer | Python · JavaScript · React · Django  
+I learn best by building things and breaking them until they work.
 
 ---
 
-## 🙋 About Me
+##  About Me
 
 - 🔭 **Currently working on:** Python-based web projects and responsive UIs using Tailwind CSS And React JS 
-- 🌱 **Currently learning:** AI/ML — exploring machine learning concepts, models & real-world applications
 - 👯 **Looking to collaborate on:** Beginner-friendly web apps, Python projects & real-world practice ideas
 - 🤝 **Looking for help with:** Backend best practices, database design & improving project structure
 - 💬 **Ask me about:** Python, JavaScript, HTML, CSS,React Js , Tailwind CSS, Django, Flask & SQL 
@@ -37,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishjadav01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
