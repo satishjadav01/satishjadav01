@@ -1,6 +1,6 @@
 #  Hi, I'm Satish Jadav
 
-Full Stack Developer | Python · JavaScript · React · Django  
+Full Stack Developer | Python · JavaScript · React 
 I learn best by building things and breaking them until they work.
 
 ---
